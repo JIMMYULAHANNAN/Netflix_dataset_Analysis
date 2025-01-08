@@ -38,4 +38,4 @@ This project involves exploratory data analysis (EDA) on a Netflix dataset using
 ### Conclusion:
 This analysis leverages pandas for data manipulation and seaborn for visualization, offering insights such as content trends, top contributors, and rating distributions on Netflix. 
 
-Code:
+Code:https://github.com/JIMMYULAHANNAN/Netflix_dataset_Analysis/blob/main/Netflixdataset.ipynb
